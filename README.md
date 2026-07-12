@@ -9,6 +9,7 @@
 ├── mybookings.php   → Protected dashboard + session counter (Q3-B)
 ├── logout.php       → Session destroy + redirect (Q3-B)
 └── README.md        → This file
+
 ```
 
 ---
@@ -30,23 +31,23 @@
 1. Navigate to your XAMPP htdocs folder:
    - Windows: `C:\xampp\htdocs\`
    - Mac/Linux: `/Applications/XAMPP/htdocs/` or `/opt/lampp/htdocs/`
-2. Create a new folder named: `MidTerm_232201040_Fatima`
+2. Create a new folder named: `MidTerm_Travel_Booking`
 3. Copy all `.php` files into that folder
 
 Final path should look like:
 ```
-C:\xampp\htdocs\MidTerm_232201040_Fatima\trip.php
-C:\xampp\htdocs\MidTerm_232201040_Fatima\booking.php
-C:\xampp\htdocs\MidTerm_232201040_Fatima\login.php
-C:\xampp\htdocs\MidTerm_232201040_Fatima\mybookings.php
-C:\xampp\htdocs\MidTerm_232201040_Fatima\logout.php
+C:\xampp\htdocs\MidTerm_Travel_Booking\trip.php
+C:\xampp\htdocs\MidTerm_Travel_Booking\booking.php
+C:\xampp\htdocs\MidTerm_Travel_Booking\login.php
+C:\xampp\htdocs\MidTerm_Travel_Booking\mybookings.php
+C:\xampp\htdocs\MidTerm_Travel_Booking\logout.php
 ```
 
 ---
 
 ### STEP 3 — Open in VS Code (Optional but Recommended)
 1. Open VS Code
-2. File → Open Folder → select `MidTerm_232201040_Fatima`
+2. File → Open Folder → select `MidTerm_Travel_Booking`
 3. Install extension: **PHP Intelephense** (for syntax highlighting)
 4. You can edit any file directly — changes reflect immediately in browser
 
@@ -55,7 +56,7 @@ C:\xampp\htdocs\MidTerm_232201040_Fatima\logout.php
 ### STEP 4 — Run the Project
 Open your browser and go to:
 ```
-http://localhost/MidTerm_232201040_Fatima/trip.php
+http://localhost/MidTerm_Travel_Booking/trip.php
 ```
 
 ---
@@ -133,4 +134,5 @@ http://localhost/MidTerm_232201040_Fatima/trip.php
 
 ---
 
-*MidTerm Project | Roll No: 232201040 | Student: Fatima | 2025*
+*MidTerm Project | Travel Booking System | 2025*
+```
