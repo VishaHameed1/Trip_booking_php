@@ -1,8 +1,8 @@
-# MidTerm_232201040_Fatima — Setup Guide
+# Setup Guide
 
 ## Project Structure
 ```
-MidTerm_232201040_Fatima/
+
 ├── trip.php         → Booking form (Q1)
 ├── booking.php      → Form processing + price calculator (Q2)
 ├── login.php        → Traveller login with sessions (Q3-A)
